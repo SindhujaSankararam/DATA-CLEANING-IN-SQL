@@ -1,5 +1,9 @@
 Project Title: Nashville Housing Data Cleaning in SQL
+
+
 Introduction:
+
+
 The Nashville Housing Data Cleaning project aims to clean and standardize the data in the NashvilleHousing table using SQL queries. The project focuses on tasks such as standardizing the sale date format, populating missing property address data, breaking out the address into individual columns, changing values in a specific field, and removing duplicates from the dataset. By performing these data cleaning operations, the project ensures that the Nashville housing data is accurate, consistent, and ready for further analysis.
 
 Objectives:
